@@ -34,3 +34,7 @@ By skillfully combining these elements, this program can analyze bubble solution
 
 
 # Project Walk-Through:
+
+When only one bubble solution has the highest score.
+
+![take_1](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/f6f568d1-83c0-49c0-b729-53c8619df5ac)
