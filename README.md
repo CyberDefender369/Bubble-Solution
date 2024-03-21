@@ -7,12 +7,13 @@ This program emulates a fictional company engaged in the production of bubble so
 2.	Total Number of Bubble Solutions Tested: It is essential to know the total count of bubble solutions evaluated.
 3.	Highest Bubble Score: Identifying the solution with the highest bubble score is crucial for quality assessment.
 4.	Top-Scoring Solution(s): Highlight the solution(s) that achieved the highest score.
-5.	Cost-Effectiveness Analysis: By combining the bubble scores and their corresponding prices, it can be determine the most cost-effective bubble solution.
+5.	Cost-Effectiveness Analysis: By combining the bubble scores and their corresponding prices, the most cost-effective bubble solution can be determined.
+
 To achieve these objectives, we will employ the following programming constructs:
 *	Loops (both for and while loops) to iterate through the datasets.
 *	Variables to store relevant information.
 *	Data structures (lists) to organize and manipulate the data.
-*	The random module for any stochastic processes.
+*	The random module for any arbitrary processes.
 *	The range function to generate sequences of numbers.
 *	The length function to determine the size of datasets.
 *	The round function for precision when necessary.
@@ -20,7 +21,7 @@ To achieve these objectives, we will employ the following programming constructs
 *	Boolean expressions to filter and select specific data points.
 *	Conditional statements (if statements) to handle different scenarios.
 
-By skillfully combining these elements, we will create a professional-grade program that analyzes bubble solution data efficiently and provides valuable insights for our fictional company.
+By skillfully combining these elements, this program can analyze bubble solution data efficiently and provides valuable insights for our fictional company.
 
 # Language and Utilities Used
 
