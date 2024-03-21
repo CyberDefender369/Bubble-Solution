@@ -35,6 +35,16 @@ By skillfully combining these elements, this program can analyze bubble solution
 
 # Project Walk-Through:
 
-When only one bubble solution has the highest score.
+Scenario when there is one high scoring bubble solution.
 
-![take_1](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/f6f568d1-83c0-49c0-b729-53c8619df5ac)
+![one_high_score](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/0727969d-1cbf-40d8-9468-ccbec3fea6e4)
+
+
+Scenario when there are two high scoring bubble solutions. 
+
+![two_high_scores](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/55206364-8f2d-4b73-a040-239916dfe990)
+
+
+Scenario when there are two high scoring bubble solutions. 
+
+![three_high_scores](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/1af4e081-78f5-44da-980a-ae3a0215de88)
