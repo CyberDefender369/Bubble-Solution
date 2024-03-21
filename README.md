@@ -21,7 +21,7 @@ To achieve these objectives, we will employ the following programming constructs
 *	Boolean expressions to filter and select specific data points.
 *	Conditional statements (if statements) to handle different scenarios.
 
-By skillfully combining these elements, this program can analyze bubble solution data efficiently and provides valuable insights for our fictional company.
+By skillfully combining these elements, this program can analyze bubble solution data efficiently and provide valuable insights for our fictional company.
 
 # Language and Utilities Used
 
