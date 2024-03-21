@@ -1,4 +1,4 @@
-# Bubble-Solution-Manufacturing-Solution
+# Bubble-Solution-Manufacturing-Simulation
 
 # Description
 
