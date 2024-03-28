@@ -40,16 +40,20 @@ The final GIF demonstrates the implementation of a well known sorting algorithm 
 
 ## Project Walk-Through:
 
-Scenario when there is one high scoring bubble solution.
+Scenario with one high scoring bubble solution.
 
 ![one_high_score](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/0727969d-1cbf-40d8-9468-ccbec3fea6e4)
 
 
-Scenario when there are two high scoring bubble solutions. 
+Scenario with two high scoring bubble solutions. 
 
 ![two_high_scores](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/55206364-8f2d-4b73-a040-239916dfe990)
 
 
-Scenario when there are two high scoring bubble solutions. 
+Scenario with three high scoring bubble solutions. 
 
 ![three_high_scores](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/1af4e081-78f5-44da-980a-ae3a0215de88)
+
+Source code refactored and top 5 solutions are now listed. 
+
+![top_5](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/a67c1c43-6d6e-4885-b061-3dc683602e01)
