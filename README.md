@@ -1,6 +1,6 @@
 # Bubble-Solution-Manufacturing-Simulation
 
-# Description
+## Description
 
 This program emulates a fictional company engaged in the production of bubble solutions. Each unique bubble solution undergoes rigorous testing, and its performance is quantified by the number of bubbles it produces. The dataset comprises 50 distinct bubble solutions. Additionally, access was granted to a separate dataset that provides the price associated with each bubble solution. The primary objective is to extract valuable insights from this data. Specifically, the aim is to accomplish the following:
 1.	List Bubble Solution Scores: Present a comprehensive list of scores for all tested bubble solutions.
@@ -8,8 +8,9 @@ This program emulates a fictional company engaged in the production of bubble so
 3.	Highest Bubble Score: Identifying the solution with the highest bubble score is crucial for quality assessment.
 4.	Top-Scoring Solution(s): Highlight the solution(s) that achieved the highest score.
 5.	Cost-Effectiveness Analysis: By combining the bubble scores and their corresponding prices, the most cost-effective bubble solution can be determined.
+6.	List Top 5 Bubble Solutions: Display the top 5 solutions and their corresponding solution number so that each bubble solution engineer is awarded a bonus. 
 
-To achieve these objectives, we will employ the following programming constructs:
+To achieve these objectives, the following programming constructs are employed:
 *	Loops (both for and while loops) to iterate through the datasets.
 *	Variables to store relevant information.
 *	Data structures (lists) to organize and manipulate the data.
@@ -23,17 +24,20 @@ To achieve these objectives, we will employ the following programming constructs
 
 By skillfully combining these elements, this program can analyze bubble solution data efficiently and provide valuable insights for our fictional company.
 
-# Language and Utilities Used
+## Language and Utilities Used
 
 - Python 3.10.11
 - Thonny 4.1.3
 
-# Environments Used 
+## Environments Used 
 
 - Windows 11
 
+## Notes
 
-# Project Walk-Through:
+The final GIF demonstrates the implementation of a well known sorting algorithm (bubble sort). Although I could have achieved the same result using the built-in sort method, I intentionally opted for a more challenging approach to test my skills. Additionally, I have refactored the source code and remain open to further refinements as I explore different programming styles.
+
+## Project Walk-Through:
 
 Scenario when there is one high scoring bubble solution.
 
