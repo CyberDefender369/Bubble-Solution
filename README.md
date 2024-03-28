@@ -2,16 +2,16 @@
 
 ## Description
 
-This program emulates a fictional company engaged in the production of bubble solutions. Each unique bubble solution undergoes rigorous testing, and its performance is quantified by the number of bubbles it produces. The dataset comprises 50 distinct bubble solutions. Additionally, access was granted to a separate dataset that provides the price associated with each bubble solution. The primary objective is to extract valuable insights from this data. Specifically, the aim is to accomplish the following:
+This program emulates a fictional company engaged in the production of bubble solutions. Each unique bubble solution undergoes testing, and its performance is quantified by the number of bubbles it produces. The dataset comprises 50 distinct bubble solutions. Additionally, access was granted to a separate dataset that provides the price associated with each bubble solution. The primary objective is to extract valuable insights from this data. Specifically, the aim is to accomplish the following:
 1.	List Bubble Solution Scores: Present a comprehensive list of scores for all tested bubble solutions.
 2.	Total Number of Bubble Solutions Tested: It is essential to know the total count of bubble solutions evaluated.
 3.	Highest Bubble Score: Identifying the solution with the highest bubble score is crucial for quality assessment.
 4.	Top-Scoring Solution(s): Highlight the solution(s) that achieved the highest score.
 5.	Cost-Effectiveness Analysis: By combining the bubble scores and their corresponding prices, the most cost-effective bubble solution can be determined.
-6.	List Top 5 Bubble Solutions: Display the top 5 solutions and their corresponding solution number so that each bubble solution engineer is awarded a bonus. 
+6.	List Top 5 Bubble Solutions: Display the top 5 bubble solutions and their corresponding solution number so that each bubble solution engineer is awarded a bonus. 
 
 To achieve these objectives, the following programming constructs are employed:
-*	Loops (both for and while loops) to iterate through the datasets.
+*	Loops (for and while loops) to iterate through the datasets.
 *	Variables to store relevant information.
 *	Data structures (lists) to organize and manipulate the data.
 *	The random module for any arbitrary processes.
@@ -21,9 +21,9 @@ To achieve these objectives, the following programming constructs are employed:
 *	F-strings for clear and concise output formatting.
 *	Boolean expressions to filter and select specific data points.
 *	Conditional statements (if statements) to handle different scenarios.
-*	A function to implement the bubble sort algorithm. 
+*	Functions to implement the bubble sort algorithm. 
 
-By skillfully combining these elements, this program can analyze bubble solution data efficiently and provide valuable insights for our fictional company.
+By skillfully combining these elements, this program can analyze bubble solution data efficiently and provide valuable insights for the fictional company.
 
 ## Language and Utilities Used
 
@@ -54,6 +54,6 @@ Scenario with three high scoring bubble solutions.
 
 ![three_high_scores](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/1af4e081-78f5-44da-980a-ae3a0215de88)
 
-Source code refactored and top 5 solutions are now listed. 
+Refactored source code and the top 5 solutions are now listed. 
 
 ![top_5](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation/assets/96165986/a67c1c43-6d6e-4885-b061-3dc683602e01)
