@@ -21,6 +21,7 @@ To achieve these objectives, the following programming constructs are employed:
 *	F-strings for clear and concise output formatting.
 *	Boolean expressions to filter and select specific data points.
 *	Conditional statements (if statements) to handle different scenarios.
+*	A function to implement the bubble sort algorithm. 
 
 By skillfully combining these elements, this program can analyze bubble solution data efficiently and provide valuable insights for our fictional company.
 
